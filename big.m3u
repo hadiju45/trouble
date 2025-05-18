@@ -9,5 +9,5 @@ http://103.112.62.87/Candy_Live/vstream.m3u8?id=a1c4e01414e7&e=.m3u8
 #EXTINF:-3 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/640px-Rtv_bangladesh.svg.png” group-title=”Bangla”, RTV
 https://live.jadooiptv.com/allLive/rtv/playlist.m3u8
 
-#EXTINF:-3 tvg-logo=”https://e7.pngegg.com/pngimages/706/1020/png-clipart-kaaba-pakistan-medina-television-channel-live-television-kaaba-miscellaneous-television.png” group-title=”Bangla”, Quran TV
+#EXTINF:-4 tvg-logo=”https://e7.pngegg.com/pngimages/706/1020/png-clipart-kaaba-pakistan-medina-television-channel-live-television-kaaba-miscellaneous-television.png” group-title=”Bangla”, Quran TV
 https://ap02.iqplay.tv:8082/iqb8002/mec31mhtvtv/playlist.m3u8
