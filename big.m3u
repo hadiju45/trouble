@@ -1,0 +1,13 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, DBC
+https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.ts.m3u8?remote=no_check_ip&token=26f136ebdcbcb3d69a1e59ef575c12a03eb30405-0a3adf6f087804822846df24f9388fba-1747576521-1747575621
+
+#EXTINF:-2 tvg-logo=”https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png” group-title=”Bangla”, Discovery
+http://103.112.62.87/Candy_Live/vstream.m3u8?id=a1c4e01414e7&e=.m3u8
+
+#EXTINF:-3 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/640px-Rtv_bangladesh.svg.png” group-title=”Bangla”, RTV
+https://live.jadooiptv.com/allLive/rtv/playlist.m3u8
+
+#EXTINF:-3 tvg-logo=”https://e7.pngegg.com/pngimages/706/1020/png-clipart-kaaba-pakistan-medina-television-channel-live-television-kaaba-miscellaneous-television.png” group-title=”Bangla”, Quran TV
+https://ap02.iqplay.tv:8082/iqb8002/mec31mhtvtv/playlist.m3u8
